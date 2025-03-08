@@ -74,7 +74,7 @@ Method 2 is substantially more memory-efficient, requiring only about 1/6th of t
 
 ```bash
 # Clone the repository
-git clone https://github.com/ImadSaddik/MemoryProfiler.git
+git clone git@github.com:ImadSaddik/MemoryProfiler.git
 
 # Install dependencies
 cd MemoryProfiler
