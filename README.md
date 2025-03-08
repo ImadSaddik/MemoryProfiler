@@ -110,7 +110,7 @@ def your_function():
     pass
 ```
 
-1. Run your script:
+3. Run your script:
 
 ```bash
 python -m your_script.py
